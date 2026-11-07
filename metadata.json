@@ -1,0 +1,6 @@
+{
+  "name": "Tienda Inés - Sistema de Gestión",
+  "description": "Sistema de gestión para PC con control de usuarios, almacén con alertas de stock, ventas con descuento automático de inventario, registro de asistencia y panel ejecutivo para el Administrador.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
